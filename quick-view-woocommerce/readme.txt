@@ -3,7 +3,7 @@ Contributors: XootiX
 Donate link: https://www.paypal.me/xootix
 Tags: free quick view, modal, product summary, products quick view, quick-view, single product, summary, woocommerce, woocommerce extension, WooCommerce Plugin,WooCommerce quickview , WooCommerce Lightbox , WooCommerce quick view , Woocommerce fast view , Quick View , Lightbox
 Requires at least: 3.0.1
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: 1.7
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
